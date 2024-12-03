@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pawan\\source\\repos\\Flexi5S\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1AB1059-8F08-4262-8D96-9504C6621FB5}|Flexi5S\\Flexi5S.csproj|c:\\users\\pawan\\source\\repos\\flexi5s\\flexi5s\\controllers\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1AB1059-8F08-4262-8D96-9504C6621FB5}|Flexi5S\\Flexi5S.csproj|solutionrelative:flexi5s\\controllers\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1AB1059-8F08-4262-8D96-9504C6621FB5}|Flexi5S\\Flexi5S.csproj|c:\\users\\pawan\\source\\repos\\flexi5s\\flexi5s\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1AB1059-8F08-4262-8D96-9504C6621FB5}|Flexi5S\\Flexi5S.csproj|solutionrelative:flexi5s\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1AB1059-8F08-4262-8D96-9504C6621FB5}|Flexi5S\\Flexi5S.csproj|c:\\users\\pawan\\source\\repos\\flexi5s\\flexi5s\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F1AB1059-8F08-4262-8D96-9504C6621FB5}|Flexi5S\\Flexi5S.csproj|solutionrelative:flexi5s\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1AB1059-8F08-4262-8D96-9504C6621FB5}|Flexi5S\\Flexi5S.csproj|c:\\users\\pawan\\source\\repos\\flexi5s\\flexi5s\\model\\auditformsubmission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1AB1059-8F08-4262-8D96-9504C6621FB5}|Flexi5S\\Flexi5S.csproj|solutionrelative:flexi5s\\model\\auditformsubmission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1AB1059-8F08-4262-8D96-9504C6621FB5}|Flexi5S\\Flexi5S.csproj|c:\\users\\pawan\\source\\repos\\flexi5s\\flexi5s\\controllers\\fivetakecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1AB1059-8F08-4262-8D96-9504C6621FB5}|Flexi5S\\Flexi5S.csproj|solutionrelative:flexi5s\\controllers\\fivetakecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1AB1059-8F08-4262-8D96-9504C6621FB5}|Flexi5S\\Flexi5S.csproj|c:\\users\\pawan\\source\\repos\\flexi5s\\flexi5s\\authorization\\hasscoperequirement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1AB1059-8F08-4262-8D96-9504C6621FB5}|Flexi5S\\Flexi5S.csproj|solutionrelative:flexi5s\\authorization\\hasscoperequirement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1AB1059-8F08-4262-8D96-9504C6621FB5}|Flexi5S\\Flexi5S.csproj|c:\\users\\pawan\\source\\repos\\flexi5s\\flexi5s\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F1AB1059-8F08-4262-8D96-9504C6621FB5}|Flexi5S\\Flexi5S.csproj|solutionrelative:flexi5s\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuditFormSubmission.cs",
+              "DocumentMoniker": "C:\\Users\\pawan\\source\\repos\\Flexi5S\\Flexi5S\\Model\\AuditFormSubmission.cs",
+              "RelativeDocumentMoniker": "Flexi5S\\Model\\AuditFormSubmission.cs",
+              "ToolTip": "C:\\Users\\pawan\\source\\repos\\Flexi5S\\Flexi5S\\Model\\AuditFormSubmission.cs",
+              "RelativeToolTip": "Flexi5S\\Model\\AuditFormSubmission.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T04:58:50.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApiController.cs",
+              "DocumentMoniker": "C:\\Users\\pawan\\source\\repos\\Flexi5S\\Flexi5S\\Controllers\\ApiController.cs",
+              "RelativeDocumentMoniker": "Flexi5S\\Controllers\\ApiController.cs",
+              "ToolTip": "C:\\Users\\pawan\\source\\repos\\Flexi5S\\Flexi5S\\Controllers\\ApiController.cs",
+              "RelativeToolTip": "Flexi5S\\Controllers\\ApiController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T04:50:50.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\pawan\\source\\repos\\Flexi5S\\Flexi5S\\appsettings.json",
+              "RelativeDocumentMoniker": "Flexi5S\\appsettings.json",
+              "ToolTip": "C:\\Users\\pawan\\source\\repos\\Flexi5S\\Flexi5S\\appsettings.json",
+              "RelativeToolTip": "Flexi5S\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-28T00:27:58.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HasScopeRequirement.cs",
+              "DocumentMoniker": "C:\\Users\\pawan\\source\\repos\\Flexi5S\\Flexi5S\\Authorization\\HasScopeRequirement.cs",
+              "RelativeDocumentMoniker": "Flexi5S\\Authorization\\HasScopeRequirement.cs",
+              "ToolTip": "C:\\Users\\pawan\\source\\repos\\Flexi5S\\Flexi5S\\Authorization\\HasScopeRequirement.cs",
+              "RelativeToolTip": "Flexi5S\\Authorization\\HasScopeRequirement.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAADQAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T00:25:59.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\pawan\\source\\repos\\Flexi5S\\Flexi5S\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Flexi5S\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\pawan\\source\\repos\\Flexi5S\\Flexi5S\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Flexi5S\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-27T23:07:32.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FiveTakeController.cs",
+              "DocumentMoniker": "C:\\Users\\pawan\\source\\repos\\Flexi5S\\Flexi5S\\Controllers\\FiveTakeController.cs",
+              "RelativeDocumentMoniker": "Flexi5S\\Controllers\\FiveTakeController.cs",
+              "ToolTip": "C:\\Users\\pawan\\source\\repos\\Flexi5S\\Flexi5S\\Controllers\\FiveTakeController.cs",
+              "RelativeToolTip": "Flexi5S\\Controllers\\FiveTakeController.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAwwEwAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T22:21:34.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pawan\\source\\repos\\Flexi5S\\Flexi5S\\Program.cs",
+              "RelativeDocumentMoniker": "Flexi5S\\Program.cs",
+              "ToolTip": "C:\\Users\\pawan\\source\\repos\\Flexi5S\\Flexi5S\\Program.cs",
+              "RelativeToolTip": "Flexi5S\\Program.cs",
+              "ViewState": "AQIAAOMAAAAAAAAAAAAqwPwAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T06:01:46.486Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
